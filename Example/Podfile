@@ -1,0 +1,6 @@
+use_frameworks!
+target 'amazon-fling_Tests' do
+  pod 'amazon-fling', :path => '../'
+  
+  
+end

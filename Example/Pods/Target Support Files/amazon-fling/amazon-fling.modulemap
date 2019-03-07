@@ -1,0 +1,6 @@
+framework module amazon_fling {
+  umbrella header "amazon-fling-umbrella.h"
+
+  export *
+  module * { export * }
+}

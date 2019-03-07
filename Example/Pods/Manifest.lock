@@ -1,0 +1,16 @@
+PODS:
+  - amazon-fling (0.1.0)
+
+DEPENDENCIES:
+  - amazon-fling (from `../`)
+
+EXTERNAL SOURCES:
+  amazon-fling:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  amazon-fling: 5786ecd967592a6226c51b4f7a8f20cb1dfb5a48
+
+PODFILE CHECKSUM: b414610b4ce5e4509f0825663e0c1c527dcd1b7c
+
+COCOAPODS: 1.6.0
