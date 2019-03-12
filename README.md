@@ -1,7 +1,9 @@
 # amazon-fling
 Amazon Fling
 
-Easily integrate the *Amazon Fling SDK* to discover and control your FireTV in your app
+Easily integrate the *Amazon Fling SDK* to discover and control your FireTV in your app.
+This SDK is not open source and is owned by Amazon.
+This repo is used to integrate the AmazonFling SDK to iOS projects using Cocoapods.
 
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg?longCache=true&style=flat-square)](https://www.apple.com/de/ios)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?longCache=true&style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)

@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'Easily integrate the Amazon Fling SDK to discover and control your FireTV in your app.'
 
   s.description      = <<-DESC
-      Discovering and controlling your FireTV requires the Amazon Fling SDK.
+      Discovering and controlling your FireTV requires the Amazon Fling SDK. \n This SDK is not open source and is owned by Amazon.\n This repo is used to integrate the AmazonFling SDK to iOS projects using Cocoapods",
   DESC
 
   s.homepage         = 'https://github.com/playmigo/amazon-fling'
